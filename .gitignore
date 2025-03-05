@@ -1,0 +1,15 @@
+#arquivos compilados
+*.o
+*.out
+*.exe
+
+#Diretorios de build
+/build/
+/bin/
+/obj/
+
+# arquivos do editor
+*.swp
+*.swo
+.vscode/
+.idea/
